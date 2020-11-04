@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Data Science Portfolio on Ayush Mehrotra</title>
+    <link>https://code-ayu.github.io/PortFolio/</link>
+    <description>Recent content in Data Science Portfolio on Ayush Mehrotra</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 10 Oct 2020 11:00:59 -0400</lastBuildDate><atom:link href="https://code-ayu.github.io/PortFolio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project 2: Mutual Funds Data Analysis</title>
+      <link>https://code-ayu.github.io/PortFolio/post/project-2/</link>
+      <pubDate>Sat, 10 Oct 2020 11:00:59 -0400</pubDate>
+      
+      <guid>https://code-ayu.github.io/PortFolio/post/project-2/</guid>
+      <description>Nevertheless, as be harangued them, the satisfaction and admiration unanimously excited by his costume were dissipated by his words; and when he reached that untoward conclusion: “As soon as his illustrious eminence, the cardinal, arrives, we will begin,” his voice was drowned in a thunder of hooting.
+“Begin instantly! The mystery! the mystery immediately!” shrieked the people. And above all the voices, that of Johannes de Molendino was audible, piercing the uproar like the fife’s derisive serenade: “Commence instantly!</description>
+    </item>
+    
+    <item>
+      <title>Project 1: Dog Breed Classifier </title>
+      <link>https://code-ayu.github.io/PortFolio/post/project-1/</link>
+      <pubDate>Sat, 09 May 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://code-ayu.github.io/PortFolio/post/project-1/</guid>
+      <description>Welcome to the dog breed classifier project. This project uses Convolutional Neural Networks (CNNs). Given an image of a dog, our algorithm will identify an estimate of the canine’s breed. If supplied an image of a human, the code will identify the resembling dog breed. I have to design an algorithm in such a way that a given image should be identified as a dogs breed if it’s of a dog or tell a resembling dog breed if image is of a human .</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://code-ayu.github.io/PortFolio/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://code-ayu.github.io/PortFolio/contact/</guid>
+      <description>Follow me on these social media platforms.
+   Platform URL     Twitter: https://twitter.com/ImAyu56   LinkedIn: https://www.linkedin.com/in/ayush-mehrotra-ds/   Medium: https://medium.com/@ayushmehrotra1234   GitHub: https://github.com/code-ayu    </description>
+    </item>
+    
+  </channel>
+</rss>
